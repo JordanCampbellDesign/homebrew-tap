@@ -1,6 +1,6 @@
 cask "umbra" do
-  version "1.0.3"
-  sha256 "54aa6ab246b04900d48cc94c84ae58d5a2f1dc78329ef75fd6f3af70066fc255"
+  version "1.0.4"
+  sha256 "6c6c2ef9f23619f11e368dbe77fed28f3972c89d98b7582a41393c6130e7c274"
 
   url "https://github.com/JordanCampbellDesign/Umbra/releases/download/v#{version}/Umbra-#{version}.dmg"
   name "Umbra"
